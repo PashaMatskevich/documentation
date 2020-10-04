@@ -2,7 +2,9 @@
 Pterodactyl Panel is designed to run on your own web server. You will need to have root access to your server in order
 to run and use this panel.
 
-This panel does not exist as a drag-and-drop service to run your servers. It is a highly complex system
+This panel does not exist as a drag-and-drop service to run your servers. It
+
+highly complex system
 requiring multiple dependencies and administrators willing to spend some time learning how to use it. If you expect
 to be able to install this with no understanding of basic Linux system administration you should stop and turn
 around now.
